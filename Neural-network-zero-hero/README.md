@@ -1,1 +1,1 @@
-
+**This Repo are the notes from the Andrej Karpathy "Neural Networks: Zero to Hero"**
