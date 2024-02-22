@@ -12,3 +12,4 @@ Do visit his his profile on LinkeedIn for more detail :https://www.linkedin.com/
 
 
 :grinning: emoji cheat sheet :https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#book-paper
+Further Exercises : https://www.linkedin.com/posts/tekzest_deeplearning-llms-generativeai-activity-7161446772865744897-xBmg/?utm_source=share&utm_medium=member_android
