@@ -8,3 +8,7 @@ Do visit his his profile on LinkeedIn for more detail :https://www.linkedin.com/
   <li>A Batch of Three inputs</li>
   <li>Seven Layers , aka Multi Layered Perceptron  (MLP) </li>
 </ol> 
+
+
+
+emoji cheat sheet :https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#book-paper
