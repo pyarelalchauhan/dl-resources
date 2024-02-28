@@ -1,12 +1,15 @@
 ## Some of the Handson execises shared by Dr. Tom Yeh.
 Do visit his his profile on LinkeedIn for more detail :https://www.linkedin.com/in/tom-yeh/ <br>
+If want to follow these exercises, do follow in the below sequence:- Happy Learning :)
 
  <ol start="1">
   <li> 🟢 :point_right:  Single Neuron (  on paper  :page_facing_up: ) + code (single_neuron.ipynb :man_technologist:)</li>
   <li> 🟢 Four Neurons</li>
   <li> 🟢 Hidden Layer</li>
-  <li>A Batch of Three inputs</li>
-  <li>Seven Layers , aka Multi Layered Perceptron  (MLP) </li>
+  <li> 🟡 A Batch of Three inputs</li>
+  <li> 🟡 Seven Layers , aka Multi Layered Perceptron  (MLP) </li>
+  <li> 🟡 MultiLayer Perceptron in Pytorch </li>
+  <li> 🟡 MLP Backpropagation </li>
 </ol> 
 
 
