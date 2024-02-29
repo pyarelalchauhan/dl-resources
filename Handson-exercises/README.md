@@ -8,8 +8,8 @@ If want to follow these exercises, do follow in the below sequence:- Happy Learn
   <li> 🟢 Hidden Layer</li>
   <li> 🟢 A Batch of Three inputs</li>
   <li> 🟡 Seven Layers , aka Multi Layered Perceptron  (MLP) </li>
-  <li> 🟡 MultiLayer Perceptron in Pytorch </li>
-  <li> 🟡 MLP Backpropagation </li>
+  <li> 🔴 MultiLayer Perceptron in Pytorch </li>
+  <li> 🔴 MLP Backpropagation </li>
 </ol> 
 
 
