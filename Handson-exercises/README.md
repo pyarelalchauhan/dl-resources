@@ -6,7 +6,7 @@ If want to follow these exercises, do follow in the below sequence:- Happy Learn
   <li> 🟢 :point_right:  Single Neuron (  on paper  :page_facing_up: ) + code (single_neuron.ipynb :man_technologist:)</li>
   <li> 🟢 Four Neurons</li>
   <li> 🟢 Hidden Layer</li>
-  <li> 🟡 A Batch of Three inputs</li>
+  <li> 🟢 A Batch of Three inputs</li>
   <li> 🟡 Seven Layers , aka Multi Layered Perceptron  (MLP) </li>
   <li> 🟡 MultiLayer Perceptron in Pytorch </li>
   <li> 🟡 MLP Backpropagation </li>
