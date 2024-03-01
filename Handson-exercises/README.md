@@ -3,7 +3,7 @@ Do visit his his profile on LinkeedIn for more detail :https://www.linkedin.com/
 If want to follow these exercises, do follow in the below sequence mentioned:- <br> Happy Learning 🤖 <br>
 All exercises mentioned below has done on paper and also code are written for these hands on exercises. 😸
  <ol start="1">
-  <li> 🟢 :point_right:  Single Neuron (  on paper  :page_facing_up: ) + code (single_neuron.ipynb :man_technologist:)</li>
+  <li> 🟢 :point_right:  Single Neuron :man_technologist:</li>
   <li> 🟢 Four Neurons</li>
   <li> 🟢 Hidden Layer</li>
   <li> 🟢 A Batch of Three inputs</li>
