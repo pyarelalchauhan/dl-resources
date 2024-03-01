@@ -1,6 +1,6 @@
 ## Some of the Handson execises shared by Dr. Tom Yeh.
 Do visit his his profile on LinkeedIn for more detail :https://www.linkedin.com/in/tom-yeh/ <br>
-If want to follow these exercises, do follow in the below sequence:- Happy Learning :)
+If want to follow these exercises, do follow in the below sequence mentioned:- <br> Happy Learning :) <br>
 All exercises mentioned below has done on paper and also code are written for these hands on exercises. 😸
  <ol start="1">
   <li> 🟢 :point_right:  Single Neuron (  on paper  :page_facing_up: ) + code (single_neuron.ipynb :man_technologist:)</li>
