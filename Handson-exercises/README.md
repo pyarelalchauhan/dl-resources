@@ -8,8 +8,8 @@ All exercises mentioned below has done on paper and also code are written for th
   <li> 🟢 Hidden Layer</li>
   <li> 🟢 A Batch of Three inputs</li>
   <li> 🟢 Seven Layers , aka Multi Layered Perceptron  (MLP) </li>
-  <li> 🟡 MultiLayer Perceptron in Pytorch </li>
-  <li> 🔴 MLP Backpropagation </li>
+  <li> 🟢 MultiLayer Perceptron in Pytorch </li>
+  <li> 🟡 MLP Backpropagation </li>
 </ol> 
 
 
